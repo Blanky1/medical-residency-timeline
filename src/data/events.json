@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "year": 1889,
+    "title": "Halsted Founds the First Surgical Residency",
+    "category": "origin",
+    "shortDesc": "William Stewart Halsted establishes the first formal surgical residency at Johns Hopkins Hospital — while actively addicted to cocaine.",
+    "detail": "Halsted's program was built on a pyramid structure where only a select few residents would ultimately advance to independent practice. His addiction, hidden behind what colleagues called eccentricity, shaped a culture of endurance over wellbeing. Wright & Schachar (2020) trace how this flawed foundation became the national template for physician training across America.",
+    "source": "Wright & Schachar, Canadian Journal of Surgery, 63(1):E13–E19 (2020)",
+    "sourceUrl": "https://www.canjsurg.ca/content/63/1/E13",
+    "image": null
+  },
+  {
+    "id": 2,
+    "year": 1893,
+    "title": "Johns Hopkins School of Medicine Opens",
+    "category": "education",
+    "shortDesc": "Hopkins opens requiring all students to hold a bachelor's degree — a radical standard that reshapes American medical education.",
+    "detail": "Prior to Hopkins, most medical schools had minimal entrance requirements. The combination of Hopkins' rigorous admissions, William Osler's clinical teaching model, and Halsted's residency structure created the blueprint that almost every American medical school eventually adopted: four years undergrad, four years medical school, then residency training.",
+    "source": "Johns Hopkins Medicine, Office of Medical History",
+    "sourceUrl": "https://www.hopkinsmedicine.org/about/history",
+    "image": null
+  },
+  {
+    "id": 3,
+    "year": 1910,
+    "title": "The Flexner Report",
+    "category": "reform",
+    "shortDesc": "Abraham Flexner's Carnegie Foundation report exposes widespread inadequacy in American medical schools, triggering the closure of over half of all programs.",
+    "detail": "Commissioned by the Carnegie Foundation, Flexner visited all 155 medical schools in North America and found most to be dangerously substandard. The report triggered massive consolidation — the number of medical schools dropped from 155 to around 85 by the 1920s. The Hopkins model emerged as the gold standard for survivors, cementing Halsted's residency structure as the national norm.",
+    "source": "Flexner A., Medical Education in the United States and Canada, Carnegie Foundation (1910); PMC review",
+    "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6211283/",
+    "image": null
+  },
+  {
+    "id": 4,
+    "year": 1917,
+    "title": "WWI Strains the Physician Workforce",
+    "category": "crisis",
+    "shortDesc": "U.S. entry into WWI depletes the domestic physician supply, accelerating reliance on residents and trainees to staff hospital wards.",
+    "detail": "The wartime mobilization of physicians created gaps in civilian hospitals that residents and interns were increasingly expected to fill. This crisis normalized the idea of trainees as essential, low-cost labor — a precedent that would be dramatically amplified during WWII and permanently embedded into the hospital operating model.",
+    "source": "Cofer et al., American Journal of Surgery (2018)",
+    "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6188409/",
+    "image": null
+  },
+  {
+    "id": 5,
+    "year": 1927,
+    "title": "AMA Publishes First Approved Residency List",
+    "category": "regulation",
+    "shortDesc": "The AMA publishes its first official directory of hospitals approved for residency training — the beginning of national oversight.",
+    "detail": "According to AMA institutional records, 1927 marked the first time a national body formally published a list of approved residency programs. The standards largely codified what already existed rather than reimagining it. The AMA's approval process would remain the primary accreditation mechanism until the ACGME was established in 1981.",
+    "source": "AMA History, American Medical Association (ama-assn.org); AMA Wikipedia",
+    "sourceUrl": "https://www.ama-assn.org/about/ama-history/ama-history",
+    "image": null
+  },
+  {
+    "id": 6,
+    "year": 1941,
+    "title": "WWII Mass Draft of Physicians",
+    "category": "crisis",
+    "shortDesc": "The mass mobilization of physicians into WWII forces the government to rapidly expand residency training using the Halsted model as its ready-made template.",
+    "detail": "As detailed by Cofer et al., the WWII physician draft forced the government to subsidize residency expansion through programs like the GI Bill — not as a reimagining of training, but as an emergency expansion of the Halsted model. Residency positions increased sixfold between 1940 and 1960. A model shaped by one man's addiction became the national standard not because it was sound, but because it was available.",
+    "source": "Cofer et al., American Journal of Surgery (2018); PMC GME Funding Review",
+    "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6188409/",
+    "image": null
+  },
+  {
+    "id": 7,
+    "year": 1944,
+    "title": "GI Bill Begins Federal Subsidies for Residency",
+    "category": "regulation",
+    "shortDesc": "The Servicemen's Readjustment Act of 1944 marks the first time the federal government directly subsidizes residency training.",
+    "detail": "According to a PMC review of GME financing history, the GI Bill marked the beginning of governmental subsidies for teaching hospitals. Stipends increased and residency positions expanded dramatically. Hospitals discovered that residents were extraordinarily cost-effective labor — a financial incentive that would become permanently embedded in the hospital operating model and later formalized through Medicare in 1965.",
+    "source": "PMC: Graduate Medical Education Funding Mechanisms (pmc.ncbi.nlm.nih.gov/articles/PMC7308777)",
+    "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7308777/",
+    "image": null
+  },
+  {
+    "id": 8,
+    "year": 1953,
+    "title": "Residency Becomes Mandatory for Board Certification",
+    "category": "education",
+    "shortDesc": "Specialty boards make completion of an accredited residency mandatory for certification — locking the Halsted endurance model permanently into the physician pipeline.",
+    "detail": "By the early 1950s, the American Board of Medical Specialties and its member boards had made residency completion a prerequisite for specialist certification across most fields. This made the grueling training model not just common but inescapable. There was now no alternative path to professional legitimacy in medicine.",
+    "source": "ACGME-I History (acgme-i.org/About-Us/History); American Board of Medical Specialties",
+    "sourceUrl": "https://www.acgme-i.org/About-Us/History",
+    "image": null
+  },
+  {
+    "id": 9,
+    "year": 1965,
+    "title": "Medicare & Medicaid Embed GME Funding",
+    "category": "regulation",
+    "shortDesc": "The Social Security Amendments of 1965 formally embed federal funding for graduate medical education into the Medicare payment system — where it remains today.",
+    "detail": "At its inception in 1965, Medicare reimbursed hospitals for the direct and indirect costs of residency training. Congress stated this funding was intended as temporary — until communities could bear the cost another way. It never ended. By FY2023, Medicare alone paid an estimated $21.2 billion annually toward GME. Critics argue this structure incentivizes hospitals to maximize resident labor rather than reform training quality.",
+    "source": "Congressional Research Service, Medicare Graduate Medical Education (2025): congress.gov/crs-product/IF13088",
+    "sourceUrl": "https://www.congress.gov/crs-product/IF13088",
+    "image": null
+  },
+  {
+    "id": 10,
+    "year": 1981,
+    "title": "ACGME Is Established",
+    "category": "regulation",
+    "shortDesc": "Five medical organizations found the Accreditation Council for Graduate Medical Education — the independent body that now governs all U.S. residency and fellowship programs.",
+    "detail": "The ACGME was established in 1981 succeeding the Liaison Committee on Graduate Medical Education (1972). The five founding organizations were the American Medical Association, the American Board of Medical Specialties, the American Hospital Association, the Association of American Medical Colleges, and the Council of Medical Specialty Societies. Critics noted that all five were institutional stakeholders who benefited from the existing system.",
+    "source": "ACGME Fact Sheet (acgme.org/globalassets/PDFs/Fact_Sheet.pdf); ACGME Wikipedia",
+    "sourceUrl": "https://www.acgme.org/globalassets/PDFs/Fact_Sheet.pdf",
+    "image": null
+  },
+  {
+    "id": 11,
+    "year": 1984,
+    "title": "The Libby Zion Case",
+    "category": "crisis",
+    "shortDesc": "18-year-old Libby Zion dies at New York Hospital. Her father — a lawyer and NY Times contributor — wages a public campaign blaming resident fatigue.",
+    "detail": "Libby Zion died on March 5, 1984, after being treated by fatigued, inadequately supervised residents. Her father Sidney Zion — a lawyer and former New York Times contributor — publicly argued that his daughter's death was caused by exhausted residents making critical errors without proper oversight. The case became a national flashpoint and prompted New York State to launch the Bell Commission, whose 1989 findings produced the first legally mandated hour limits for residents in any U.S. state.",
+    "source": "Wikipedia: Libby Zion law (en.wikipedia.org/wiki/Libby_Zion_law); Bell Commission Report, NY (1989)",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Libby_Zion_law",
+    "image": null
+  },
+  {
+    "id": 12,
+    "year": 1989,
+    "title": "New York's 405 Regulations",
+    "category": "reform",
+    "shortDesc": "New York becomes the first state to legally cap resident work hours at 80 per week, following the Bell Commission's findings.",
+    "detail": "The 405 Regulations — named for their section in the New York State health code — were groundbreaking and immediately controversial. Many hospitals struggled to comply. Residents were divided: some welcomed relief, others worried about disrupting care continuity. Compliance monitoring was weak and violations widespread, foreshadowing the enforcement challenges that would follow the ACGME's 2003 national rules.",
+    "source": "New York State Department of Health, 10 NYCRR Part 405 (1989); Wikipedia: Libby Zion law",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Libby_Zion_law",
+    "image": null
+  },
+  {
+    "id": 13,
+    "year": 1999,
+    "title": "IOM Report: 'To Err is Human'",
+    "category": "reform",
+    "shortDesc": "The Institute of Medicine estimates up to 98,000 Americans die annually from preventable medical errors, reframing resident fatigue as a systemic patient safety crisis.",
+    "detail": "The IOM's landmark report drew a direct line between systemic fatigue, inadequate supervision, and preventable medical errors. It reframed resident exhaustion not as a personal burden but as a structural patient safety failure — and set the stage for the ACGME's national duty hour reform four years later.",
+    "source": "Institute of Medicine, To Err is Human: Building a Safer Health System, National Academies Press (1999)",
+    "sourceUrl": "https://nap.nationalacademies.org/catalog/9728/to-err-is-human-building-a-safer-health-system",
+    "image": null
+  },
+  {
+    "id": 14,
+    "year": 2003,
+    "title": "ACGME Institutes the First National 80-Hour Cap",
+    "category": "regulation",
+    "shortDesc": "The ACGME mandates an 80-hour weekly work limit for all U.S. residents — the first national duty hour standard in American medical history.",
+    "detail": "Responding to public pressure and the threat of congressional action, the ACGME implemented the 80-hour cap (averaged over four weeks) across all accredited programs. Programs found non-compliant risked losing accreditation. The cap relied heavily on self-reporting — a structural flaw that would later be exposed when Fargen & Rosen found residents were widely falsifying their logs.",
+    "source": "ACGME Duty Hour Standards (2003); ACGME.org Common Program Requirements",
+    "sourceUrl": "https://www.acgme.org/what-we-do/accreditation/common-program-requirements/",
+    "image": null
+  },
+  {
+    "id": 15,
+    "year": 2009,
+    "title": "IOM Calls for Stricter Hour Limits",
+    "category": "reform",
+    "shortDesc": "A new IOM report recommends capping first-year resident shifts at 16 hours, citing continued evidence that fatigue endangers patients and residents alike.",
+    "detail": "The report — 'Resident Duty Hours: Enhancing Sleep, Supervision, and Safety' — found that despite 2003 reforms, resident fatigue remained a serious patient safety issue. The IOM recommended capping intern shifts at 16 consecutive hours, a recommendation the ACGME would formally adopt in its 2011 program requirements revision.",
+    "source": "IOM, Resident Duty Hours: Enhancing Sleep, Supervision, and Safety, National Academies Press (2009)",
+    "sourceUrl": "https://nap.nationalacademies.org/catalog/12508/resident-duty-hours-enhancing-sleep-supervision-and-safety",
+    "image": null
+  },
+  {
+    "id": 16,
+    "year": 2011,
+    "title": "16-Hour Intern Cap Adopted — and Resisted",
+    "category": "regulation",
+    "shortDesc": "The ACGME caps first-year shifts at 16 hours. Surgical residents push back hard, and Fargen & Rosen's research reveals many are falsifying logs rather than comply.",
+    "detail": "The 2011 ACGME revision introduced the 16-hour cap for first-year residents based on the 2009 IOM report. Paradoxically, many residents — particularly surgical residents — opposed it. They believed shorter shifts disrupted patient continuity and impaired their clinical development. Fargen & Rosen (2013) found that residents were actively falsifying duty hour logs, revealing a culture where compliance was seen as an obstacle to good training.",
+    "source": "ACGME Common Program Requirements (2011); Fargen & Rosen, Journal of Graduate Medical Education (2013)",
+    "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3886449/",
+    "image": null
+  },
+  {
+    "id": 17,
+    "year": 2013,
+    "title": "Study Exposes Widespread Hour Log Falsification",
+    "category": "crisis",
+    "shortDesc": "Fargen & Rosen publish findings showing residents are broadly falsifying duty hour logs — revealing that regulations are being actively subverted.",
+    "detail": "Published in the Journal of Graduate Medical Education, Fargen & Rosen's commentary drew on survey data showing residents were not just working beyond legal limits — they were covering it up. The study raised the central question of this timeline: had the culture of residency so thoroughly internalized the Halsted ethos of endurance that federal safety regulations were seen as a threat to professional identity rather than a protection?",
+    "source": "Fargen & Rosen, 'Are Duty Hour Regulations Promoting a Culture of Dishonesty Among Resident Physicians?', J Grad Med Ed (2013)",
+    "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3886449/",
+    "image": null
+  },
+  {
+    "id": 18,
+    "year": 2017,
+    "title": "ACGME Rolls Back the 16-Hour Cap",
+    "category": "regulation",
+    "shortDesc": "Following sustained pushback from surgical programs, the ACGME reverses the 2011 intern shift limit, allowing shifts up to 24 hours again.",
+    "detail": "The ACGME's 2017 revision removed the 16-hour intern shift cap, allowing first-year residents to work shifts up to 24 hours again (with up to 4 additional hours for care transitions). The rollback was framed as restoring continuity of care and was supported by many surgical training programs. The 80-hour weekly average cap remained in place. Critics argued the reversal prioritized institutional tradition over patient safety evidence.",
+    "source": "ACGME Common Program Requirements, effective July 1, 2017 (acgme.org); PSNet/AHRQ summary",
+    "sourceUrl": "https://www.acgme.org/what-we-do/accreditation/common-program-requirements/",
+    "image": null
+  },
+  {
+    "id": 19,
+    "year": 2020,
+    "title": "COVID-19 Pushes Residents to the Breaking Point",
+    "category": "crisis",
+    "shortDesc": "The pandemic exposes the structural fragility of relying on residents as a primary labor source, while driving burnout and moral injury to record levels.",
+    "detail": "During COVID-19 surges, programs operated under crisis standards of care with residents working under extreme and prolonged conditions. Published surveys in NEJM and JAMA documented dramatic spikes in burnout, PTSD symptoms, and moral injury among residents. The pandemic made it impossible to separate the acute crisis from the structural labor inequities embedded in the Halsted model from the beginning.",
+    "source": "NEJM Resident burnout surveys (2020–2021); JAMA Internal Medicine resident wellbeing studies (2020–2021)",
+    "sourceUrl": "https://www.nejm.org/doi/full/10.1056/NEJMp2003891",
+    "image": null
+  },
+  {
+    "id": 20,
+    "year": 2023,
+    "title": "Resident Unionization Surges Nationally",
+    "category": "reform",
+    "shortDesc": "Resident physicians at major academic medical centers unionize at unprecedented rates, demanding better pay, mental health support, and enforceable hour protections.",
+    "detail": "Driven by pandemic-era burnout and a broader labor movement in healthcare, residents at institutions including UCLA and UCSF organized collectively through unions such as SEIU-UHW and the Committee of Interns and Residents (CIR). Their demands centered on wages that kept pace with cost of living, mental health resources, and enforceable protections against retaliation for reporting hour violations — representing the most direct structural challenge to the Halsted model in over a century.",
+    "source": "SEIU-UHW and CIR union filings (2022–2023); STAT News reporting",
+    "sourceUrl": "https://www.statnews.com/2023/01/17/resident-physicians-union-organizing/",
+    "image": null
+  }
+]

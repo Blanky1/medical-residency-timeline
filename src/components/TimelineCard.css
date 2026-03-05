@@ -1,0 +1,153 @@
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  padding: 24px 28px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  max-width: 380px;
+}
+
+.card--left {
+  margin-left: auto;
+  margin-right: 0;
+  text-align: right;
+}
+
+.card--right {
+  margin-left: 0;
+  text-align: left;
+}
+
+/* Category accent — left border */
+.card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 3px;
+  transition: width 0.3s ease;
+}
+
+.card--left::before { right: 0; left: auto; }
+.card--right::before { left: 0; }
+
+.card--origin::before   { background: var(--accent-origin); }
+.card--reform::before   { background: var(--accent-reform); }
+.card--regulation::before { background: var(--accent-regulation); }
+.card--crisis::before   { background: var(--accent-crisis); }
+.card--education::before { background: var(--accent-education); }
+
+/* Hover glow */
+.card--origin:hover   { background: var(--surface2); box-shadow: 0 0 40px var(--glow-origin); }
+.card--reform:hover   { background: var(--surface2); box-shadow: 0 0 40px var(--glow-reform); }
+.card--regulation:hover { background: var(--surface2); box-shadow: 0 0 40px var(--glow-regulation); }
+.card--crisis:hover   { background: var(--surface2); box-shadow: 0 0 40px var(--glow-crisis); }
+.card--education:hover { background: var(--surface2); box-shadow: 0 0 40px var(--glow-education); }
+
+.card--expanded { background: var(--surface2); }
+.card--expanded::before { width: 4px; }
+
+/* Tag */
+.card__tag {
+  font-family: 'DM Mono', monospace;
+  font-size: 9px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+  display: block;
+}
+
+.card--origin .card__tag   { color: var(--accent-origin); }
+.card--reform .card__tag   { color: var(--accent-reform); }
+.card--regulation .card__tag { color: var(--accent-regulation); }
+.card--crisis .card__tag   { color: var(--accent-crisis); }
+.card--education .card__tag { color: var(--accent-education); }
+
+/* Title */
+.card__title {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 1.2;
+  color: var(--text);
+  margin-bottom: 10px;
+}
+
+/* Short desc */
+.card__short {
+  font-size: 14px;
+  line-height: 1.7;
+  color: var(--text-dim);
+  font-style: italic;
+}
+
+/* Detail expand */
+.card__detail {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.4s ease, opacity 0.3s ease;
+  opacity: 0;
+}
+
+.card__detail--visible {
+  max-height: 600px;
+  opacity: 1;
+}
+
+.card__detail-text {
+  font-size: 13.5px;
+  line-height: 1.85;
+  color: var(--text);
+  margin-top: 16px;
+  padding-top: 16px;
+  border-top: 1px solid var(--border);
+}
+
+.card__source {
+  font-family: 'DM Mono', monospace;
+  font-size: 10px;
+  color: var(--text-muted);
+  margin-top: 12px;
+  letter-spacing: 0.5px;
+}
+
+.card__source-link {
+  color: var(--text-muted);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  transition: color 0.2s;
+}
+
+.card__source-link:hover {
+  color: var(--text);
+}
+
+/* Toggle button */
+.card__toggle {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin-top: 14px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  font-family: 'DM Mono', monospace;
+  font-size: 10px;
+  letter-spacing: 1px;
+  color: var(--text-muted);
+  transition: color 0.2s;
+}
+
+.card--left .card__toggle {
+  margin-left: auto;
+}
+
+.card__toggle:hover { color: var(--text); }
+
+.card__toggle-icon {
+  font-size: 16px;
+  line-height: 1;
+  font-family: monospace;
+}
